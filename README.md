@@ -1,4 +1,4 @@
-### **Instruksi Praktikum:**
+### **Instruksi UAS Praktikum:**
 
 1. **Jalankan XAMPP/Laragon dan Buat Database**
    - Gunakan **phpMyAdmin** untuk membuat database berikut:  
